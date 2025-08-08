@@ -1,0 +1,18 @@
+{
+    "name": "neo-design-patterns-hw-05",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Design Patterns Homework - Message Service Implementation",
+    "author": "Nataliia Khodorova <icxodnik@gmail.com>",
+    "main": "dist/main.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "ts-node src/main.ts"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0",
+        "ts-node": "^10.9.1",
+        "@types/node": "^18.0.0",
+        "prettier": "^3.6.2"
+    }
+}
